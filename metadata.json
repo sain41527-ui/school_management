@@ -1,0 +1,6 @@
+{
+  "name": "Artificial Pro — Thorm Birds Academy ERP",
+  "description": "Comprehensive multi-role school ERP and educational management platform for Thorm Birds Academy with dedicated Admin, Teacher, and Student portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
